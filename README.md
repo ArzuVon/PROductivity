@@ -157,8 +157,8 @@ src
 > Use this section to document ideas you've had that would be fun (or necessary) for your Post-MVP. This will be helpful when you return to your project after graduation!
 
 - Indepth CSS for styling (Completed)
-- Add PRO membership SELECTIONS FOR 8.99 a month
-- Add add check out, cart, and new membership monthly account
+- Add an optional Kaban approach
+- Add reminders
 
 <br>
 
